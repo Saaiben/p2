@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/nat4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.haut{
+    display: flex;
+    background-color: black;
+   height: 6vh;
+    color: white;
+}
+
+
+
+.citation1{
+    color: white;
+    font-size: xx-large;
+    font-style: italic;
+    text-shadow: 2px;
+    margin-top: 75vh;
+    margin-right: 10vh;
+    text-align: end;
+}
+    
